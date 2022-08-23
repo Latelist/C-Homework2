@@ -16,22 +16,30 @@
 
 void ProgrammersCount(int num)
 {
-    int number = num % 10;
-
-    if (number == 1)
-    {
-        Console.WriteLine($"{num} программист");
-    }
-    else if (number == 2 || number == 3 || number == 4)
-    {
-        Console.WriteLine($"{num} программиста");
-    }
-    else
+    if (num > 10 && num < 20)
     {
         Console.WriteLine($"{num} программистов");
     }
-}
 
+    else
+    {
+        int number = num % 10;
+
+        if (number == 1)
+        {
+            Console.WriteLine($"{num} программист");
+        }
+        else if (number == 2 || number == 3 || number == 4)
+        {
+            Console.WriteLine($"{num} программиста");
+        }
+        else
+        {
+            Console.WriteLine($"{num} программистов");
+        }
+    }
+
+}
 
 Console.WriteLine("Введите число: ");
 int quantity = Convert.ToInt32(Console.ReadLine());
