@@ -1,0 +1,15 @@
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Additional01_ManyProgrammers/bin/Debug/net6.0/Additional01_ManyProgrammers
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Additional01_ManyProgrammers/bin/Debug/net6.0/Additional01_ManyProgrammers.deps.json
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Additional01_ManyProgrammers/bin/Debug/net6.0/Additional01_ManyProgrammers.runtimeconfig.json
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Additional01_ManyProgrammers/bin/Debug/net6.0/Additional01_ManyProgrammers.dll
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Additional01_ManyProgrammers/bin/Debug/net6.0/Additional01_ManyProgrammers.pdb
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Additional01_ManyProgrammers/obj/Debug/net6.0/Additional01_ManyProgrammers.csproj.AssemblyReference.cache
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Additional01_ManyProgrammers/obj/Debug/net6.0/Additional01_ManyProgrammers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Additional01_ManyProgrammers/obj/Debug/net6.0/Additional01_ManyProgrammers.AssemblyInfoInputs.cache
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Additional01_ManyProgrammers/obj/Debug/net6.0/Additional01_ManyProgrammers.AssemblyInfo.cs
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Additional01_ManyProgrammers/obj/Debug/net6.0/Additional01_ManyProgrammers.csproj.CoreCompileInputs.cache
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Additional01_ManyProgrammers/obj/Debug/net6.0/Additional01_ManyProgrammers.dll
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Additional01_ManyProgrammers/obj/Debug/net6.0/refint/Additional01_ManyProgrammers.dll
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Additional01_ManyProgrammers/obj/Debug/net6.0/Additional01_ManyProgrammers.pdb
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Additional01_ManyProgrammers/obj/Debug/net6.0/Additional01_ManyProgrammers.genruntimeconfig.cache
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Additional01_ManyProgrammers/obj/Debug/net6.0/ref/Additional01_ManyProgrammers.dll

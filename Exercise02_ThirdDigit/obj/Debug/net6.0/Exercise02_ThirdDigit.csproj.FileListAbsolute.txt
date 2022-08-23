@@ -1,0 +1,15 @@
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise02_ThirdDigit/obj/Debug/net6.0/Exercise02_ThirdDigit.csproj.AssemblyReference.cache
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise02_ThirdDigit/obj/Debug/net6.0/Exercise02_ThirdDigit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise02_ThirdDigit/obj/Debug/net6.0/Exercise02_ThirdDigit.AssemblyInfoInputs.cache
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise02_ThirdDigit/obj/Debug/net6.0/Exercise02_ThirdDigit.AssemblyInfo.cs
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise02_ThirdDigit/obj/Debug/net6.0/Exercise02_ThirdDigit.csproj.CoreCompileInputs.cache
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise02_ThirdDigit/bin/Debug/net6.0/Exercise02_ThirdDigit
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise02_ThirdDigit/bin/Debug/net6.0/Exercise02_ThirdDigit.deps.json
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise02_ThirdDigit/bin/Debug/net6.0/Exercise02_ThirdDigit.runtimeconfig.json
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise02_ThirdDigit/bin/Debug/net6.0/Exercise02_ThirdDigit.dll
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise02_ThirdDigit/bin/Debug/net6.0/Exercise02_ThirdDigit.pdb
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise02_ThirdDigit/obj/Debug/net6.0/Exercise02_ThirdDigit.dll
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise02_ThirdDigit/obj/Debug/net6.0/refint/Exercise02_ThirdDigit.dll
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise02_ThirdDigit/obj/Debug/net6.0/Exercise02_ThirdDigit.pdb
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise02_ThirdDigit/obj/Debug/net6.0/Exercise02_ThirdDigit.genruntimeconfig.cache
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise02_ThirdDigit/obj/Debug/net6.0/ref/Exercise02_ThirdDigit.dll

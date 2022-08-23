@@ -1,0 +1,15 @@
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise03_Weekday/bin/Debug/net6.0/Exercise03_Weekday
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise03_Weekday/bin/Debug/net6.0/Exercise03_Weekday.deps.json
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise03_Weekday/bin/Debug/net6.0/Exercise03_Weekday.runtimeconfig.json
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise03_Weekday/bin/Debug/net6.0/Exercise03_Weekday.dll
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise03_Weekday/bin/Debug/net6.0/Exercise03_Weekday.pdb
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise03_Weekday/obj/Debug/net6.0/Exercise03_Weekday.csproj.AssemblyReference.cache
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise03_Weekday/obj/Debug/net6.0/Exercise03_Weekday.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise03_Weekday/obj/Debug/net6.0/Exercise03_Weekday.AssemblyInfoInputs.cache
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise03_Weekday/obj/Debug/net6.0/Exercise03_Weekday.AssemblyInfo.cs
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise03_Weekday/obj/Debug/net6.0/Exercise03_Weekday.csproj.CoreCompileInputs.cache
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise03_Weekday/obj/Debug/net6.0/Exercise03_Weekday.dll
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise03_Weekday/obj/Debug/net6.0/refint/Exercise03_Weekday.dll
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise03_Weekday/obj/Debug/net6.0/Exercise03_Weekday.pdb
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise03_Weekday/obj/Debug/net6.0/Exercise03_Weekday.genruntimeconfig.cache
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise03_Weekday/obj/Debug/net6.0/ref/Exercise03_Weekday.dll

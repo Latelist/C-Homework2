@@ -1,0 +1,15 @@
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise01_SecondDigit/bin/Debug/net6.0/Exercise01_SecondDigit
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise01_SecondDigit/bin/Debug/net6.0/Exercise01_SecondDigit.deps.json
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise01_SecondDigit/bin/Debug/net6.0/Exercise01_SecondDigit.runtimeconfig.json
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise01_SecondDigit/bin/Debug/net6.0/Exercise01_SecondDigit.dll
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise01_SecondDigit/bin/Debug/net6.0/Exercise01_SecondDigit.pdb
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise01_SecondDigit/obj/Debug/net6.0/Exercise01_SecondDigit.csproj.AssemblyReference.cache
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise01_SecondDigit/obj/Debug/net6.0/Exercise01_SecondDigit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise01_SecondDigit/obj/Debug/net6.0/Exercise01_SecondDigit.AssemblyInfoInputs.cache
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise01_SecondDigit/obj/Debug/net6.0/Exercise01_SecondDigit.AssemblyInfo.cs
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise01_SecondDigit/obj/Debug/net6.0/Exercise01_SecondDigit.csproj.CoreCompileInputs.cache
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise01_SecondDigit/obj/Debug/net6.0/Exercise01_SecondDigit.dll
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise01_SecondDigit/obj/Debug/net6.0/refint/Exercise01_SecondDigit.dll
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise01_SecondDigit/obj/Debug/net6.0/Exercise01_SecondDigit.pdb
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise01_SecondDigit/obj/Debug/net6.0/Exercise01_SecondDigit.genruntimeconfig.cache
+/Users/salatzelenyj/Desktop/Крошево/GeekBrains/C#/Seminars/S2_Homework1/Exercise01_SecondDigit/obj/Debug/net6.0/ref/Exercise01_SecondDigit.dll
